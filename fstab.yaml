@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p66215-e699552.adobeaemcloud.com/bin/franklin.delivery/vishal/universal-editor-getting/main"
+    url: "https://localhost:4502/bin/franklin.delivery/vishal/universal-editor-getting/main"
     type: "markup"
     suffix: ".html"
